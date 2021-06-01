@@ -1,4 +1,4 @@
-### Hi there 👋
+<img alt="Hi There" src="https://raw.githubusercontent.com/4o4forbidden/4o4forbidden/main/assets/Background.svg"/>
 
 <!--
 **4o4forbidden/4o4forbidden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
