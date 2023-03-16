@@ -4,8 +4,9 @@
   <img alt="Hi There" src="https://www.animatedimages.org/data/media/903/animated-turkey-flag-image-0021.gif"/>
 </p>
 <p align="center">
-<img alt="Hi There" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"/>
+<img alt="Hi There" src="https://raw.githubusercontent.com/ThomasSalty/ThomasSalty/1186a366073fb47f0287e68b8d97006a989f4901/dino.gif"/>
 </p>
+<br> <br> <br>
 
 
 <!--
