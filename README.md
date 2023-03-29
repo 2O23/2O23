@@ -3,10 +3,13 @@
 <p align="center">
   <img alt="Hi There" src="https://www.animatedimages.org/data/media/903/animated-turkey-flag-image-0021.gif" width="127"/>
 </p>
+<!--
 <p align="center">
 <img alt="Hi There" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="512"/>
 </p>
 <br>
+-->
+
 
 <!--
 **4o4forbidden/4o4forbidden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
